@@ -1,1 +1,2 @@
-#WRITE YOUR CODE IN THIS FILE
+close10(x, y):
+    if x < y
