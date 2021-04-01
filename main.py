@@ -1,4 +1,6 @@
 def close10(x, y):
+    abs(x)
+    abs(y)
     if 10 - x < 10 - 7:
         return x
     elif 10 - x > 10 - y:
